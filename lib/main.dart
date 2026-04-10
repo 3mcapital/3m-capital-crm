@@ -7,8 +7,8 @@ import 'package:fl_chart/fl_chart.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
-// API URL - Flask server runs on port 5000, not /api path
-const String _apiBaseUrl = 'http://172.17.44.87:5000';
+// API URL - 雲端 CRM 服務器
+const String _apiBaseUrl = 'https://3m-capital-crm-production.up.railway.app';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
