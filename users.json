@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "phone": "admin",
+    "password": "scrypt:32768:8:1$HpNwYNjJy3kvotBM$ce8876dd0021c733c195b9a0d97f49f0bbc7e4174684bea8d262f0a49c688822afeda10a018df2574c1aca6235fedafc5ca72d6f34bf2cb70845d4bb8c12cd27",
+    "name": "admin",
+    "created_at": "2026-04-10T21:24:30.613395",
+    "membership": "free",
+    "membership_expire": null
+  },
+  {
+    "id": 2,
+    "phone": "666666",
+    "password": "scrypt:32768:8:1$r572wkBxrGQOQC0D$c3577d4f9e1c13699304890fe4ba2ef634094e1e615a0968c199a1f2aace9cc86bc0e8a8b3884323a8fc08ae18d719f11f2e2fe1c9f05ada6ec45c7342dcf828",
+    "name": "Test",
+    "membership": "free",
+    "created_at": "2026-04-10T21:28:56.024501"
+  }
+]

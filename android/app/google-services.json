@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974794641843",
+    "project_id": "goldtradingapp-68ae7",
+    "storage_bucket": "goldtradingapp-68ae7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974794641843:android:831f465a552faae18c3bc6",
+        "android_client_info": {
+          "package_name": "com.example.gold_trading_app_temp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI8liLzO3b8V9igossTVmJ9QgGvS4dgak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
